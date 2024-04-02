@@ -45,7 +45,7 @@ body{
 }
 
 .container a{
-    color: #333;
+    color: #2d2b2b;
     font-size: 13px;
     text-decoration: none;
     margin: 15px 0 10px;
@@ -63,6 +63,10 @@ body{
     text-transform: uppercase;
     margin-top: 10px;
     cursor: pointer;
+}
+
+.container button a {
+   color: #fff;
 }
 
 .container button.hidden{
