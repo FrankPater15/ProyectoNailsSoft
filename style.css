@@ -122,10 +122,12 @@ html {
     float: left;
     margin-left: 25rem; 
     color: #000000; 
-    font-family: bold;
-    font-style: normal;
-    font-size: 35px;
+    font-size: 40px;
+    font-optical-sizing: auto;
     line-height: 40px;
+    font-family: "Dancing Script", cursive;
+    font-weight: 600;
+    font-style: normal;
     margin-top: 7px;
 }
 
@@ -173,4 +175,13 @@ html {
     width: 17.8rem;
 }
 
+.activo h3{
+    color: black;
+    font-weight:700;
+}
 
+.activo img{
+    background-color: rgb(69, 68, 49);
+    border-radius: 200px;
+    padding: .4rem;
+}
