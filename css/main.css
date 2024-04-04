@@ -11,11 +11,7 @@ section{
 
 
 /* Animacion de la CAJA */
-.box
-{
-    position: relative;
-    z-index: 1000;
-}
+
 .container
 {
     position: relative;
