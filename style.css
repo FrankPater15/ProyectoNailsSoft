@@ -130,6 +130,14 @@ body {
     position: absolute;
     z-index: 12 !important;
   }
+
+  .img-fluid {
+    transition: all .5s;
+  }
+
+  .img-fluid:hover {
+    transform: scale(1.1);
+  }
   
   /* ---------- MAIN ---------- */
   
