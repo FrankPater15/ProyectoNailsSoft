@@ -1,15 +1,8 @@
-*,*::before, *::after {box-sizing: border-box;}
-
-
-
-
 /* Animation */
 section{
 
     margin-left: 17rem ;
 }
-
-
 /* Animacion de la CAJA */
 
 .container
