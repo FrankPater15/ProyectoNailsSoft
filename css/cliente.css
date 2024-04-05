@@ -154,33 +154,14 @@ body {
     justify-content: space-between;
     color: #070707;
   }
-  
-  .main-cards {
-    display: grid;
-    grid-template-columns: 1fr 1fr ;
-    gap: 10px;
-    margin: 20px 0;
-  }
 
-  .container {
-    color: #000000; 
-  }
-
-  .container h2 {
-    text-align: center;
-  }
-
-  .form-group label{
-    font-size: 10px;
-    font-family: bold;
-    color: #000000;
-  }
-
-  .form-group {
-    padding: 10px;
-  }
   
 
+.btn-outline-warning img {
+    width: 15px; 
+    height: auto;
+}
+  
   /*Responsive pagina*/
   
   @media screen and (max-width: 992px) {
@@ -224,3 +205,7 @@ body {
       display: none;
     }
   }
+
+
+
+  
